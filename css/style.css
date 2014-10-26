@@ -1,0 +1,62 @@
+body {
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            letter-spacing:- 3px;
+            font-size: -2in;
+            color: white;
+        }
+        select {
+            color:black;
+            text-align:right
+        }
+        .antet {
+           background: DarkBlue;
+           padding: 20px;
+           height: 50px;       
+       }
+       h1 {
+        color: white;
+        float: left;
+
+    } 
+    .continut {
+        background:lightgrey;
+        height: 300px;
+
+
+    }
+    select {
+        float: right;
+    }
+    fieldset {
+        
+        text-align: center;
+    }
+    input { 
+        padding: 5px;
+        font-size: 120%;
+        color: grey;
+
+
+    }
+
+    fieldset {
+        border: 0;
+    }
+
+
+            .continut2 {
+        height: 100px;
+        width: 490px;
+        background: red;
+    }
+
+        .thumbnail {
+        width: 30px;
+        height:30px;
+        margin: 10px;
+        float: left;
+        background-color: blue;
+    }
