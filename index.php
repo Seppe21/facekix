@@ -5,16 +5,8 @@
 </head>
 <body>
 
-    <div class="antet">            
-        <h1>facekix</h1>
+<?php include 'antet.php'; ?>
 
-        <select>
-            <option value="English">English</option>
-            <option value="Francais">Francais</option>
-        </select>
-
-
-    </div>
     <div class="continut">
         <fieldset>
             <form action="">
@@ -22,7 +14,7 @@
                 <input type="text" name="" value="password"><br>
                 <input type="submit" name="Login" value="Submit">
             </form>
-
+                <a href="register.php">Create an account</a>
         </fieldset>
 
     </div>

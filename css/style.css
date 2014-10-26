@@ -7,6 +7,14 @@ body {
             font-size: -2in;
             color: white;
         }
+
+        h1 a {
+            color: white;
+            text-decoration: none;
+        }
+
+        a { color: #334455;}
+
         select {
             color:black;
             text-align:right
@@ -33,6 +41,7 @@ body {
     fieldset {
         
         text-align: center;
+        margin: 0 auto;
     }
     input { 
         padding: 5px;
@@ -48,14 +57,14 @@ body {
 
 
             .continut2 {
-        height: 100px;
+        height: 400px;
         width: 490px;
         background: red;
     }
 
         .thumbnail {
-        width: 30px;
-        height:30px;
+        width: 50px;
+        height:50px;
         margin: 10px;
         float: left;
         background-color: blue;
